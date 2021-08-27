@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/AntoineLacoste/JsSIP"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/AntoineLacoste/JsSIP/issues"
   },
   "dependencies": {
     "@types/debug": "^4.1.5",
