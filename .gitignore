@@ -2,3 +2,4 @@ node_modules/
 lib-es5/
 npm-debug.log
 .idea/
+yarn.lock
